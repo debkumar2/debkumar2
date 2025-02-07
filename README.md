@@ -3,7 +3,7 @@
 <img align='right' width='400' src='https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif'>
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **HTML,CSS,Javascript,Php,Codeignitor,Mysql**
+- 💬 Ask me about **HTML,CSS,Bootstrap,Javascript,React,Tailwind**
 
 - 📫 How to reach me **debkumarmondal111@gmail.com**
 
