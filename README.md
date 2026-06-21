@@ -1,6 +1,6 @@
 # Hi there, I'm DebKumar Mondal
 
-### Aspiring Data Analyst
+### Data Analyst
 
 Passionate about turning raw data into meaningful insights and helping businesses make data-driven decisions. I enjoy exploring datasets, creating visualizations, and uncovering patterns that solve real-world problems.
 
