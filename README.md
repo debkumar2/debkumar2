@@ -1,42 +1,44 @@
 # Hi there, I'm DebKumar Mondal
 
-### Frontend Developer | Data Analyst
+### Aspiring Data Analyst
 
-Passionate about building responsive web applications and exploring the world of data. I enjoy transforming ideas into interactive experiences and extracting insights from data to solve real-world problems.
-
----
-
-## 👨‍💻 About Me
-
-- 🌱 Currently learning **Data Analytics**
-- 💻 Experienced in modern web development technologies
-- 📊 Interested in data visualization, SQL, and business insights
-- 🚀 Always eager to learn and build new things
-- 📫 Reach me on GitHub: **@debkumar2**
+Passionate about turning raw data into meaningful insights and helping businesses make data-driven decisions. I enjoy exploring datasets, creating visualizations, and uncovering patterns that solve real-world problems.
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+- Currently learning Data Analytics
+- Interested in data visualization, SQL, and business intelligence
+- Passionate about transforming data into actionable insights
+- Always eager to learn and grow in the field of analytics
+- Reach me on GitHub: **@debkumar2**
 
-### Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+---
 
-### Data Analytics (Learning)
+## Data Analytics Stack
+
+### Languages & Databases
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Libraries & Tools
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+
+### Visualization & Productivity
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=debkumar2&show_icons=true&theme=tokyonight" alt="stats" />
@@ -52,17 +54,30 @@ Passionate about building responsive web applications and exploring the world of
 
 ---
 
-## 🎯 Current Goals
+## Current Goals
 
-- 📊 Become a skilled **Data Analyst**
-- 🐍 Learn Python for Data Analysis
-- 📈 Build dashboards and analytics projects
-- 🚀 Contribute to open-source projects
+- Become a skilled Data Analyst
+- Master Python for Data Analysis
+- Build dashboards and analytics projects
+- Perform Exploratory Data Analysis (EDA)
+- Learn Machine Learning fundamentals
+- Contribute to open-source data projects
 
 ---
 
-### ✨ Quote
+## Currently Learning
 
-> "Code, Analyze, Learn, Repeat."
+- Python
+- Pandas and NumPy
+- Data Cleaning and EDA
+- Power BI
+- Advanced SQL
+- Statistics for Data Analysis
 
-⭐ Thanks for visiting my profile!
+---
+
+## Quote
+
+> "Without data, you're just another person with an opinion." — W. Edwards Deming
+
+Thanks for visiting my profile!
