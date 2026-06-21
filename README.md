@@ -1,6 +1,6 @@
-# Hi there 👋, I'm DebKumar Mondal
+# Hi there, I'm DebKumar Mondal
 
-### 🚀 Frontend Developer | Aspiring Data Analyst
+### Frontend Developer | Data Analyst
 
 Passionate about building responsive web applications and exploring the world of data. I enjoy transforming ideas into interactive experiences and extracting insights from data to solve real-world problems.
 
