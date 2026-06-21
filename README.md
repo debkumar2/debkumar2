@@ -12,7 +12,7 @@ Passionate about turning raw data into meaningful insights and helping businesse
 - Interested in data visualization, SQL, and business intelligence
 - Passionate about transforming data into actionable insights
 - Always eager to learn and grow in the field of analytics
-- Reach me on Email: **@debkumarmondal111@gmail.com**
+- Reach me on Email: **debkumarmondal111@gmail.com**
 
 ---
 
