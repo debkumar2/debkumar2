@@ -1,114 +1,152 @@
-# Hi there, I'm DebKumar Mondal
+<!-- ============================================= -->
+<!--              PROFILE HEADER                   -->
+<!-- ============================================= -->
 
-# Data Analyst | Frontend Developer
-
-Passionate about turning raw data into meaningful insights and helping businesses make data-driven decisions. Alongside analytics, I enjoy building modern, responsive web applications with clean UI and interactive user experiences.
-
----
-
-## 🚀 About Me
-
-- Currently learning Data Analytics
-- Frontend Developer with modern web development experience
-- Interested in Data Visualization, SQL, Business Intelligence & Dashboard Development
-- Passionate about transforming data into actionable insights
-- Always eager to learn new technologies and improve my skills
-- Reach me at **debkumarmondal111@gmail.com**
-
----
-
-# Data Analytics Stack
-
-## Languages & Databases
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-## Libraries
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-
-## Visualization
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
----
-
-# Frontend Tech Stack
-
-## Languages
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-## Frameworks & Libraries
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-
-## Styling
-
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
----
-
-# Tools
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-# GitHub Stats
+<h1 align="center">Hi, I'm DebKumar Mondal</h1>
+<h3 align="center">Data Analyst | Turning Data into Actionable Insights</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=debkumar2&show_icons=true&theme=tokyonight" />
+Passionate about analyzing data, uncovering trends, and building interactive dashboards that help businesses make informed decisions.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=debkumar2&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debkumar2&layout=compact&theme=tokyonight" />
+<img src="https://komarev.com/ghpvc/?username=debkumar2&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-# Current Goals
+# About Me
 
-- Become a skilled Data Analyst
-- Master Python for Data Analysis
-- Build interactive dashboards with Power BI
-- Perform Exploratory Data Analysis (EDA)
-- Learn Machine Learning fundamentals
-- Build full-stack data-driven applications
-- Contribute to Open Source
+- Aspiring **Data Analyst**
+- Passionate about **Data Analysis, Business Intelligence & Data Visualization**
+- Working with **Python, SQL, Excel & Power BI**
+- Currently learning **Advanced SQL, Statistics & Machine Learning**
+- Interested in solving real-world business problems using data
+- Always learning and improving analytical skills
+
+**Email:** **debkumarmondal111@gmail.com**
+
+---
+
+# Tech Stack
+
+## Programming Languages
+
+<p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+</p>
+
+---
+
+## Data Analysis Libraries
+
+<p>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+
+</p>
+
+---
+
+## Data Visualization
+
+<p>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+</p>
+
+---
+
+## Development Tools
+
+<p>
+
+<img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</p>
+
+---
+
+# GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=debkumar2&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debkumar2&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=debkumar2&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# GitHub Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=debkumar2&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=debkumar2&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
+
+</p>
 
 ---
 
 # Currently Learning
 
-- Python
-- Pandas & NumPy
 - Advanced SQL
-- Statistics for Data Analysis
 - Power BI
-- Machine Learning
-- React Native & Expo
+- Statistics for Data Analytics
+- Python for Data Analysis
+- Machine Learning Fundamentals
+- Data Storytelling
 
 ---
 
-⭐ Thanks for visiting my profile!
+# Connect With Me
+
+**Email:** **debkumarmondal111@gmail.com**
+
+---
+
+<p align="center">
+
+### Thanks for visiting my profile!
+
+*"Without data, you're just another person with an opinion."* — W. Edwards Deming
+
+</p>
