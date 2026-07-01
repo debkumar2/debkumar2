@@ -116,16 +116,6 @@ Passionate about analyzing data, uncovering trends, and building interactive das
 
 ---
 
-# GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=debkumar2&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
-
-</p>
-
----
-
 # Currently Learning
 
 - Advanced SQL
@@ -147,6 +137,5 @@ Passionate about analyzing data, uncovering trends, and building interactive das
 
 ### Thanks for visiting my profile!
 
-*"Without data, you're just another person with an opinion."* — W. Edwards Deming
 
 </p>
