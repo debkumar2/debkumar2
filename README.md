@@ -131,11 +131,3 @@ Passionate about analyzing data, uncovering trends, and building interactive das
 
 **Email:** **debkumarmondal111@gmail.com**
 
----
-
-<p align="center">
-
-### Thanks for visiting my profile!
-
-
-</p>
